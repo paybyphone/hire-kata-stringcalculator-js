@@ -1,0 +1,23 @@
+{
+  "name": "hire-kata-stringcalculator-js",
+  "version": "1.0.0",
+  "description": "Kata : String Calculator : Coding exercise for Javascript Developers",
+  "author": "PayByPhone Tech. Inc.",
+  "license": "GPL-3.0",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8",
+    "jasmine-core": "^2.8.0",
+    "jasmine-expect": "^3.8.1",
+    "jasmine-reporters": "^2.2.1",
+    "karma": "^1.7.1",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^1.1.0",
+    "karma-jasmine-matchers": "^3.7.0",
+    "karma-sourcemap-loader": "^0.3.7",
+    "karma-spec-reporter": "0.0.31",
+    "karma-webpack": "^2.0.5",
+    "webpack": "^3.8.1"
+  }
+}
