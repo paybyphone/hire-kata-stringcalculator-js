@@ -4,6 +4,10 @@
   "description": "Kata : String Calculator : Coding exercise for Javascript Developers",
   "author": "PayByPhone Tech. Inc.",
   "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paybyphone/hire-kata-stringcalculator"
+  },
   "dependencies": {},
   "devDependencies": {
     "gulp": "^3.9.1",
